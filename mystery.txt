@@ -1,0 +1,41 @@
+I remember this story from a random documentary, but I found it written on Quora by a fullstack dev named Nanda:
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+The number 1729 is famously known as the Hardy-Ramanujan number due to a fascinating anecdote involving the Indian mathematical genius 
+Srinivasa Ramanujan and the British mathematician G.H. Hardy. This story, which took place in 1918, highlights Ramanujan’s extraordinary 
+ability to recognize unique properties of numbers instantly.
+
+** The Taxicab Incident: **
+
+When Hardy visited Ramanujan in a hospital near London, where Ramanujan was being treated for tuberculosis, he arrived in a taxi with 
+the number 1729. Upon entering Ramanujan’s room, Hardy mentioned that he thought the number was rather dull and hoped it wasn’t an 
+unfavorable omen.
+
+Ramanujan, however, immediately responded by saying, “No, Hardy! It is a very interesting number. It is the smallest number expressible
+as the sum of two cubes in two different ways”.
+
+** Mathematical Significance: **
+
+Ramanujan’s observation about 1729 was correct and can be demonstrated as follows:
+
+1. 1729 = 1³ + 12³ = 1 + 1728
+
+2. 1729 = 9³ + 10³ = 729 + 1000
+
+This property makes 1729 the smallest taxicab number, which is defined as a number that can be expressed as the sum of two positive 
+cubes in more than one way.
+
+** Historical Context: **
+
+It’s worth noting that while this incident popularized the number 1729, it had been noted for its unique properties before. French 
+mathematician Frénicle de Bessy had observed this property of 1729 as early as 1657.
+
+** Legacy: **
+
+The Hardy-Ramanujan number showcases not only Ramanujan’s exceptional mathematical insight but also his ability to find fascinating 
+properties in seemingly ordinary numbers. This incident has become one of the most well-known anecdotes in mathematical history, cementing
+1729’s place in mathematical lore.
+
+Today, a commemorative plaque marks the site of this famous conversation at 2 Colinette Road in Putney, London. The number 1729 continues
+to fascinate mathematicians and has led to further explorations in number theory and related fields.
