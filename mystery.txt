@@ -1,9 +1,9 @@
 I remember this story from a random documentary, but I found it written on Quora by a fullstack dev named Nanda:
 
------------------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------------------------------
 
 The number 1729 is famously known as the Hardy-Ramanujan number due to a fascinating anecdote involving the Indian mathematical genius 
-Srinivasa Ramanujan and the British mathematician G.H. Hardy. This story, which took place in 1918, highlights Ramanujan’s extraordinary 
+Srinivasa Ramanujan and the British mathematician G.H. Hardy. This story, which took place in 1918, highlights Ramanujan’s extraordinary
 ability to recognize unique properties of numbers instantly.
 
 ** The Taxicab Incident: **
